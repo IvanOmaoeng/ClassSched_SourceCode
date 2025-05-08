@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:Class_Schedule_and_Room_Requesting\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\class_schedule_and_room_requesting\\secondcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:class_schedule_and_room_requesting\\secondcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|c:\\users\\ivan\\desktop\\capstone-backup file\\class_schedule_and_room_requesting\\class_schedule_and_room_requesting\\fourtcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:class_schedule_and_room_requesting\\fourtcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\class_schedule_and_room_requesting\\fourtcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:class_schedule_and_room_requesting\\fourtcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\class_schedule_and_room_requesting\\firstcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:class_schedule_and_room_requesting\\firstcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\class_schedule_and_room_requesting\\secondcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:class_schedule_and_room_requesting\\secondcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\class_schedule_and_room_requesting\\firstcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:class_schedule_and_room_requesting\\firstcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\class_schedule_and_room_requesting\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:class_schedule_and_room_requesting\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\class_schedule_and_room_requesting\\sixcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:class_schedule_and_room_requesting\\sixcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\class_schedule_and_room_requesting\\sixcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:class_schedule_and_room_requesting\\sixcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\class_schedule_and_room_requesting\\fifthcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:class_schedule_and_room_requesting\\fifthcustomcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\ThirdCustomControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:Class_Schedule_and_Room_Requesting\\ThirdCustomControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\FifthCustomControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:Class_Schedule_and_Room_Requesting\\FifthCustomControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\ThirdCustomControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:Class_Schedule_and_Room_Requesting\\ThirdCustomControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:Class_Schedule_and_Room_Requesting\\Data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\Homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:Class_Schedule_and_Room_Requesting\\Homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\class_schedule_and_room_requesting\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:class_schedule_and_room_requesting\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:Class_Schedule_and_Room_Requesting\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\class_schedule_and_room_requesting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CDA4AE7A-383A-45D6-9CF2-678FBF0DB874}|Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting.csproj|solutionrelative:class_schedule_and_room_requesting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 184,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FifthCustomControl.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\FifthCustomControl.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\FifthCustomControl.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\FifthCustomControl.cs",
+              "RelativeToolTip": "Class_Schedule_and_Room_Requesting\\FifthCustomControl.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:46:39.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SixCustomControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\SixCustomControl.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\SixCustomControl.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\SixCustomControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\SixCustomControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:34:44.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FourtCustomControl.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\FourtCustomControl.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\FourtCustomControl.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\FourtCustomControl.cs",
+              "RelativeToolTip": "Class_Schedule_and_Room_Requesting\\FourtCustomControl.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAYwBgBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:45:53.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecondCustomControl.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\SecondCustomControl.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\SecondCustomControl.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\SecondCustomControl.cs",
+              "RelativeToolTip": "Class_Schedule_and_Room_Requesting\\SecondCustomControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:46:33.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SixCustomControl.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\SixCustomControl.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\SixCustomControl.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\SixCustomControl.cs",
+              "RelativeToolTip": "Class_Schedule_and_Room_Requesting\\SixCustomControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:59:11.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\LoginForm.cs",
+              "RelativeToolTip": "Class_Schedule_and_Room_Requesting\\LoginForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:36:15.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FirstCustomControl.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\FirstCustomControl.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\FirstCustomControl.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\FirstCustomControl.cs",
+              "RelativeToolTip": "Class_Schedule_and_Room_Requesting\\FirstCustomControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:01:48.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FifthCustomControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\FifthCustomControl.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\FifthCustomControl.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\FifthCustomControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\FifthCustomControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:09:21.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThirdCustomControl.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\ThirdCustomControl.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\ThirdCustomControl.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\ThirdCustomControl.cs",
+              "RelativeToolTip": "Class_Schedule_and_Room_Requesting\\ThirdCustomControl.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAUwDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:38:15.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\Data.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\Data.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\Data.cs",
+              "RelativeToolTip": "Class_Schedule_and_Room_Requesting\\Data.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAywB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:26:11.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Homepage.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\Homepage.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\Homepage.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\Homepage.cs",
+              "RelativeToolTip": "Class_Schedule_and_Room_Requesting\\Homepage.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwGUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T15:03:25.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FourtCustomControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\FourtCustomControl.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\FourtCustomControl.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\FourtCustomControl.cs [Design]",
+              "RelativeToolTip": "Class_Schedule_and_Room_Requesting\\FourtCustomControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T13:55:35.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThirdCustomControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\ThirdCustomControl.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\ThirdCustomControl.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\ThirdCustomControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\ThirdCustomControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T12:55:30.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SecondCustomControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\SecondCustomControl.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\SecondCustomControl.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\SecondCustomControl.cs [Design]",
+              "RelativeToolTip": "Class_Schedule_and_Room_Requesting\\SecondCustomControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:54:36.03Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FirstCustomControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\FirstCustomControl.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\FirstCustomControl.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\FirstCustomControl.cs [Design]",
+              "RelativeToolTip": "Class_Schedule_and_Room_Requesting\\FirstCustomControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:44:27.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Homepage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\Homepage.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\Homepage.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\Homepage.cs [Design]",
+              "RelativeToolTip": "..\\..\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\Homepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:37:01.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\LoginForm.cs [Design]",
+              "RelativeToolTip": "Class_Schedule_and_Room_Requesting\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:29:09.974Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\Form1.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\Form1.cs",
+              "ToolTip": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\Form1.cs",
+              "RelativeToolTip": "Class_Schedule_and_Room_Requesting\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:20:51.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IVAN\\Desktop\\CAPSTONE-BACKUP FILE\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\Form1.cs",
+              "RelativeDocumentMoniker": "Class_Schedule_and_Room_Requesting\\Form1.cs",
+              "ToolTip": "C:\\Users\\IVAN\\source\\repos\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Class_Schedule_and_Room_Requesting\\Class_Schedule_and_Room_Requesting\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:16:53.686Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
